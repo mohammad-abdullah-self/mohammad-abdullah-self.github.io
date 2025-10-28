@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohammad-abdullah-self.github.io/sitemap.xml
